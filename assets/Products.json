@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "uva",
+    "description": "uva morada",
+    "price": 23,
+    "thumbnail": "rutaimagen",
+    "code": "sdfdsfsdf",
+    "stock": 34
+  },
+  {
+    "id": 2,
+    "title": "banana",
+    "description": " banana amarilla",
+    "price": 12,
+    "thumbnail": "rutadeimagen",
+    "code": "54754645hfvhfgh",
+    "stock": 56
+  },
+  {
+    "id": 3,
+    "title": "naranja",
+    "description": " naranja naranaj",
+    "price": 23,
+    "thumbnail": "rutadeimagen",
+    "code": "ljsddshgslh",
+    "stock": 11
+  }
+]
